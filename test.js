@@ -19,7 +19,7 @@ const increaseAction={type;:'increase'}
 
 //redcer
 function counter(state = {
-	count: 1
+	count: 88
 }, action) {
 	const count = state.count;
 	switch (action.type) {
